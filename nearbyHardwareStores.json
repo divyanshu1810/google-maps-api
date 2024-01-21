@@ -1,0 +1,1073 @@
+{
+  "html_attributions": [],
+  "next_page_token": "AWU5eFg_AJCRI8DhGylynjT92dJqDH4UwIEQGeuZpfw6MD9UWFY_I_AWhnVkfQCSnNMsQ4cs3RpSZ23OU9tT5_PtV0gAW9-pUDIlNk5feDa_zVIhyhQYZ0oVdh0DMaq9_iHdtEaMYx_xCzvLWtjpY0SGJJnC0ekUtC_k29vzqL8dT_mIi4ZWKAXsbJD-8Ij3UWN1T7_3xDb1gEMtffge4AsISGuA9GZhVX2dvhLPoct1sW3Ss1t3OVID7a7lwsIJ4Kzwg3LW-ka_XSqo5p13xLWA6Q4mCwijNJZkGGA-swiZ5nObWyWMbdWpwQwxuDLrbVvjmHx3xL0TCb_NEEqqABEHQJK4ZiB19412Itpw09IcIgN9ulXiO_29SH01F9IxQpLkzYL_6uzVjdtqejYl1VnH_MpPxWLXqEh_pULYX8cPJdYJpAD-dX4WafIqHev6E_5y",
+  "results": [
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 37.740339,
+          "lng": -122.40601
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 37.7415500802915,
+            "lng": -122.4049846197085
+          },
+          "southwest": {
+            "lat": 37.7388521197085,
+            "lng": -122.4076825802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "Lowe's Home Improvement",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107601529896343078489\">P. B</a>"
+          ],
+          "photo_reference": "AWU5eFjw4j32DrOTm-GEXV02REtwHgOFV1msT4dJ1nJWykzN0BPGxfABcLL6AfboBPMCG3dK0wzuD4uuDIULQAW-QOkkKPw2oAQdAAGfxIhuTIzx_OkJZIKvAww7crtSbDRyXavTXkg0blySv44zHueGozBmZCThbftGo16sGF9-rZWjs--P",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJXa163FV-j4AR3wUb--tFb6U",
+      "plus_code": {
+        "compound_code": "PHRV+4H Apparel City, San Francisco, CA, USA",
+        "global_code": "849VPHRV+4H"
+      },
+      "price_level": 1,
+      "rating": 3.5,
+      "reference": "ChIJXa163FV-j4AR3wUb--tFb6U",
+      "scope": "GOOGLE",
+      "types": [
+        "hardware_store",
+        "furniture_store",
+        "home_goods_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 3289,
+      "vicinity": "491 Bayshore Boulevard, San Francisco"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 37.7705764,
+          "lng": -122.4191526
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 37.7720901802915,
+            "lng": -122.4179954197085
+          },
+          "southwest": {
+            "lat": 37.7693922197085,
+            "lng": -122.4206933802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "Discount Builders Supply & Hardware Store",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 787,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100268867400742989012\">Discount Builders Supply &amp; Hardware Store</a>"
+          ],
+          "photo_reference": "AWU5eFheAEdlCYYjhP6AEExFHxos664ZNkg7DaTyEGRhsB3U04QDA096N0BsfQbF7RnS1kR8KqPR2oSEpHvGYIDMKauZPpG8qQjFhHzVd1eZ6cQ0OXrPw-qZ_4DL3SmcqAmwF7HE3vqT04n9qFFDc1_OlmW61MkUL8LpcQ_hChqdNRAo-PbH",
+          "width": 1399
+        }
+      ],
+      "place_id": "ChIJ_____0N-j4ARUpaoJW5sDTw",
+      "plus_code": {
+        "compound_code": "QHCJ+68 SoMa, San Francisco, CA, USA",
+        "global_code": "849VQHCJ+68"
+      },
+      "rating": 4.5,
+      "reference": "ChIJ_____0N-j4ARUpaoJW5sDTw",
+      "scope": "GOOGLE",
+      "types": [
+        "hardware_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1179,
+      "vicinity": "1695 Mission Street, San Francisco"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 37.7925476,
+          "lng": -122.399308
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 37.79379153029149,
+            "lng": -122.3979214697085
+          },
+          "southwest": {
+            "lat": 37.7910935697085,
+            "lng": -122.4006194302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "Ace Hardware",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1152,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107721404123505875377\">Trap Speed 1320</a>"
+          ],
+          "photo_reference": "AWU5eFhRPjgDMO9uHD6aKjh0M_je9De44yNtp6qazQheGPc9sDkCwrZ_llvaeTIIYdAjO_T2nmW_N6XP3dG5JzOmiX5IvddLN5GywPyZAnlKO3vM-3e95j0dHOfiC-7Qynfdcj3xHZZ6vxoj3Jy8xTMOhY9bFHF3RT96_cn6utrKnFbs1dHY",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJzQuaKGKAhYARBjjHtUyKOSw",
+      "plus_code": {
+        "compound_code": "QJV2+27 Financial District, San Francisco, CA, USA",
+        "global_code": "849VQJV2+27"
+      },
+      "price_level": 2,
+      "rating": 4.6,
+      "reference": "ChIJzQuaKGKAhYARBjjHtUyKOSw",
+      "scope": "GOOGLE",
+      "types": [
+        "hardware_store",
+        "home_goods_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 106,
+      "vicinity": "140 Pine Street, San Francisco"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 37.761306,
+          "lng": -122.434894
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 37.7626802802915,
+            "lng": -122.4336322197085
+          },
+          "southwest": {
+            "lat": 37.7599823197085,
+            "lng": -122.4363301802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "Cliff's Variety",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 810,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112711391284650970056\">Cliff&#39;s Variety</a>"
+          ],
+          "photo_reference": "AWU5eFgJWzYkNbdEJuQdSVByyV0DgQ7NTCHwbv1A9FRgUCFF5v5GA1AzYImvLdEHmi8R-PwYWktb8vdTAaWuK4ILj06wW3AJjQKHnLF9Lm7M7kPR78xgHb9wuUA9ern_cmUjaoXPSMkwDCmjiq5uPOzA0c5sTNZNRdhxU0M9gvLLT_5TPpNf",
+          "width": 1440
+        }
+      ],
+      "place_id": "ChIJx_I6Nht-j4ARNLfKgLBUx3c",
+      "plus_code": {
+        "compound_code": "QH68+G2 The Castro, San Francisco, CA, USA",
+        "global_code": "849VQH68+G2"
+      },
+      "rating": 4.8,
+      "reference": "ChIJx_I6Nht-j4ARNLfKgLBUx3c",
+      "scope": "GOOGLE",
+      "types": [
+        "hardware_store",
+        "home_goods_store",
+        "clothing_store",
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1076,
+      "vicinity": "479 Castro Street, San Francisco"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 37.7847373,
+          "lng": -122.404893
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 37.78611928029149,
+            "lng": -122.4035684197085
+          },
+          "southwest": {
+            "lat": 37.78342131970849,
+            "lng": -122.4062663802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "Cole Hardware",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 971,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102177765834867310643\">Cole Hardware</a>"
+          ],
+          "photo_reference": "AWU5eFjp8X1yedYPU8YUxYvtgAV0pBFbuDJv-B8kf-5Jr_E7GP9gEC950mToiQhyD_3F4o5FeXL2VmrfA7KpQ27XWMDP2AiUlWGE-BqMKTi7R5kH7enevOIbrimRo_8zNpKZ8wGWtE4e0puak9U7X1ZVWgQp4jfjMv9QUySB93o4jjcLAsJQ",
+          "width": 1250
+        }
+      ],
+      "place_id": "ChIJ8dv3SIaAhYARFEVeLLlhFK4",
+      "plus_code": {
+        "compound_code": "QHMW+V2 Yerba Buena, San Francisco, CA, USA",
+        "global_code": "849VQHMW+V2"
+      },
+      "rating": 4.6,
+      "reference": "ChIJ8dv3SIaAhYARFEVeLLlhFK4",
+      "scope": "GOOGLE",
+      "types": [
+        "hardware_store",
+        "home_goods_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 651,
+      "vicinity": "70 4th Street, San Francisco"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 37.79134380000001,
+          "lng": -122.4210715
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 37.7927185802915,
+            "lng": -122.4196166197085
+          },
+          "southwest": {
+            "lat": 37.79002061970851,
+            "lng": -122.4223145802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "Brownies Ace Hardware",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103945844063246602655\">Brownies Ace Hardware</a>"
+          ],
+          "photo_reference": "AWU5eFgUPjL2aFXKLP8WQjvhi6Pjnkf2ZR_ZDfLyEfwAVtvlc5r1RB2jJQAM_a4vq0Un8Ot1EDT73TvB3BYr_hluXhqsc13J11xoaRn2OjkGVC4xdjPR0fouAzsS_qqLZbSb6DpsI6502-IwjSBsOp74sC4UhZXoMSddOgp1TvrLlZXp0SVV",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ6XNQJuuAhYARkCPMJpeyz-E",
+      "plus_code": {
+        "compound_code": "QHRH+GH Polk Gulch, San Francisco, CA, USA",
+        "global_code": "849VQHRH+GH"
+      },
+      "price_level": 2,
+      "rating": 4.5,
+      "reference": "ChIJ6XNQJuuAhYARkCPMJpeyz-E",
+      "scope": "GOOGLE",
+      "types": [
+        "hardware_store",
+        "home_goods_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 295,
+      "vicinity": "1563 Polk Street, San Francisco"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 37.797722,
+          "lng": -122.4220006
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 37.79906688029151,
+            "lng": -122.4207218197085
+          },
+          "southwest": {
+            "lat": 37.79636891970851,
+            "lng": -122.4234197802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "Cole Hardware",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1944,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100903028406385852831\">Cole Hardware</a>"
+          ],
+          "photo_reference": "AWU5eFhsLLFpceKZk6j-fT6DUqC2vsBUE2DelJAwQBA90VcwpX-95gF8IfMj5-NF8ybj5sL4tVk6Mt05x-wlO_a_FI0pS_673-NflvMALzp12ft0HWy3Vtmcy8u246eonsE4sPaKqWySCyOVFsgQPIwZxaZy8GCt9q2UtBoX5YTvsoBZJE_e",
+          "width": 2592
+        }
+      ],
+      "place_id": "ChIJlwHqTeiAhYARUD2NeB5QOzg",
+      "plus_code": {
+        "compound_code": "QHXH+35 Polk Gulch, San Francisco, CA, USA",
+        "global_code": "849VQHXH+35"
+      },
+      "rating": 4.5,
+      "reference": "ChIJlwHqTeiAhYARUD2NeB5QOzg",
+      "scope": "GOOGLE",
+      "types": [
+        "hardware_store",
+        "home_goods_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 217,
+      "vicinity": "2254 Polk Street, San Francisco"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 37.7696261,
+          "lng": -122.4492412
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 37.7710247802915,
+            "lng": -122.4479026197085
+          },
+          "southwest": {
+            "lat": 37.7683268197085,
+            "lng": -122.4506005802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "Roberts Hardware",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1536,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110010703405754140278\">Roger Paul</a>"
+          ],
+          "photo_reference": "AWU5eFiAEDXsZGC9AdKkoOP9dl3fa_klqFpYX7m2UOu8304T2JudAO7XtmDmjEXKVD1E0jExpxcGgJo3Y9Idqg7CRfK8u5ZBUWTpwU_ZtiRxa7ptVnh8I-bZ-p0e-3AOvsEDd2BMa9EBfgNsppPK8_-MJvf0jKgX30l1kYZgfOF2CoG1BTuU",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJy0WHBlOHhYAR3UF7EBEQfFQ",
+      "plus_code": {
+        "compound_code": "QH92+V8 Haight-Ashbury, San Francisco, CA, USA",
+        "global_code": "849VQH92+V8"
+      },
+      "rating": 4.8,
+      "reference": "ChIJy0WHBlOHhYAR3UF7EBEQfFQ",
+      "scope": "GOOGLE",
+      "types": [
+        "hardware_store",
+        "home_goods_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 93,
+      "vicinity": "1629 Haight Street, San Francisco"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 37.7848806,
+          "lng": -122.4337186
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 37.7863357302915,
+            "lng": -122.4323484197085
+          },
+          "southwest": {
+            "lat": 37.78363776970851,
+            "lng": -122.4350463802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "Central Ace Hardware",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1596,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107721404123505875377\">Trap Speed 1320</a>"
+          ],
+          "photo_reference": "AWU5eFh2a5EN8iyo3tD7-EEjMA5CZGdRLaKagHhqV1IQgECpnXSrDVatNuiMm9uiDBBrHTbtwk-8sBinSZS_knbyJeXovyfP6oye0BpKrTOvTZ5UNCSeFcX_uFhObjfJmiLyR7f1j552woasjNKHZILOWWZJc7QAy8Ah9vYzzYmaov_0hDUz",
+          "width": 1907
+        }
+      ],
+      "place_id": "ChIJQQc3RriAhYAR3ust6Ce1Kt4",
+      "plus_code": {
+        "compound_code": "QHM8+XG Lower Pacific Heights, San Francisco, CA, USA",
+        "global_code": "849VQHM8+XG"
+      },
+      "price_level": 2,
+      "rating": 4.2,
+      "reference": "ChIJQQc3RriAhYAR3ust6Ce1Kt4",
+      "scope": "GOOGLE",
+      "types": [
+        "hardware_store",
+        "home_goods_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 101,
+      "vicinity": "1949 Post Street, San Francisco"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 37.773058,
+          "lng": -122.4371565
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 37.7744161302915,
+            "lng": -122.4357363697085
+          },
+          "southwest": {
+            "lat": 37.7717181697085,
+            "lng": -122.4384343302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "Kelly-Moore Paints",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101643262008319041079\">Frank Salinas</a>"
+          ],
+          "photo_reference": "AWU5eFgQP0O8l03F1RwRpu5CgxYa_XnEKUzW7p_WjHnfjv34J7lO_qMORCcVojxxXhRLMPNeX1Eaqzim4fV3KoUW6EGoYRWxRvg69SkJS7r8Aj5NIQxRL936SdNVQ7zKXEbGQde6EB5yEyDoAhxl0SJETygh3BMR5TntUyCIFsGWhJG_3Z0f",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJv8SgEa-AhYAROwoG5MXlS2Y",
+      "plus_code": {
+        "compound_code": "QHF7+64 Lower Haight, San Francisco, CA, USA",
+        "global_code": "849VQHF7+64"
+      },
+      "price_level": 2,
+      "rating": 4,
+      "reference": "ChIJv8SgEa-AhYAROwoG5MXlS2Y",
+      "scope": "GOOGLE",
+      "types": [
+        "hardware_store",
+        "home_goods_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 52,
+      "vicinity": "364 Divisadero Street, San Francisco"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 37.79751110000001,
+          "lng": -122.435797
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 37.7988696302915,
+            "lng": -122.4343518697085
+          },
+          "southwest": {
+            "lat": 37.7961716697085,
+            "lng": -122.4370498302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "Fredericksen Hardware & Paint",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 398,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105126288201466535960\">Fredericksen Hardware &amp; Paint</a>"
+          ],
+          "photo_reference": "AWU5eFgePedbo9FV0824goLwCyP5_jT57HIUa1Rl0vyzHfnKkLrVm-ITZXobCf5NAvI2CLc2ALkBUBpt79-FTwSVbax9eNccJKM3GIPglR8vixIN77pT3SJ2s-x2FlLS4jbBpJDEYAClVg4Ze77z3yP_LolVh5E1BWW51wmeldmd9zLf2nUb",
+          "width": 600
+        }
+      ],
+      "place_id": "ChIJiSbSedCAhYARjZGaxWzLF4w",
+      "plus_code": {
+        "compound_code": "QHX7+2M Union Street, San Francisco, CA, USA",
+        "global_code": "849VQHX7+2M"
+      },
+      "rating": 4.5,
+      "reference": "ChIJiSbSedCAhYARjZGaxWzLF4w",
+      "scope": "GOOGLE",
+      "types": [
+        "hardware_store",
+        "locksmith",
+        "furniture_store",
+        "home_goods_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 177,
+      "vicinity": "3029 Fillmore Street, San Francisco"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 37.7661193,
+          "lng": -122.3996537
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 37.7674638302915,
+            "lng": -122.3983741697085
+          },
+          "southwest": {
+            "lat": 37.7647658697085,
+            "lng": -122.4010721302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "Belmont Hardware",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3472,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117979115786296381238\">Danny Boy B</a>"
+          ],
+          "photo_reference": "AWU5eFiHCOoEBPWlNg5o3H2dFZeA1DgcC-ucUD4mm6YOf-AHB5dFxcL7U0PijFz0oMhcgY5h7GDFNvLjLt0cw3BbHlHaFgxalcpgOCBVHFLXsXI2eQU91Inorj05zDxbpfIV_VzUrE5GSn6I2iyR5Tb7-GQj4ZrzHBlr9OV86JmY7iwJZQnP",
+          "width": 3472
+        }
+      ],
+      "place_id": "ChIJU6p_4cx_j4ARzd4s_3rkchM",
+      "plus_code": {
+        "compound_code": "QJ82+C4 Potrero Hill, San Francisco, CA, USA",
+        "global_code": "849VQJ82+C4"
+      },
+      "rating": 3,
+      "reference": "ChIJU6p_4cx_j4ARzd4s_3rkchM",
+      "scope": "GOOGLE",
+      "types": [
+        "hardware_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 8,
+      "vicinity": "115 Wisconsin Street, San Francisco"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 37.7911842,
+          "lng": -122.4178261
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 37.79241573029149,
+            "lng": -122.4164731697085
+          },
+          "southwest": {
+            "lat": 37.7897177697085,
+            "lng": -122.4191711302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "Nob Hill Hardware",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109383083296034123780\">Honest Deb C</a>"
+          ],
+          "photo_reference": "AWU5eFgP9dqeW5IoGiZ9UDAScwuY7sQCo-oDukjwqsAGrY9IZvzLd34ZUeww_ii2pyjiGMqMYw7B7oTakAzTxxIWfaZRMHkmgcdfBM2OZY6X6rNvyymYIq3vjAjASaoU2qwp1qzVZ1pOBxFfmmbrX0VNByd8FDSxy8GmcSVRsKa-u75P1kC1",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJZWXFWpOAhYARl3Ppy9N44uk",
+      "plus_code": {
+        "compound_code": "QHRJ+FV Nob Hill, San Francisco, CA, USA",
+        "global_code": "849VQHRJ+FV"
+      },
+      "rating": 4.5,
+      "reference": "ChIJZWXFWpOAhYARl3Ppy9N44uk",
+      "scope": "GOOGLE",
+      "types": [
+        "hardware_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 174,
+      "vicinity": "1414 California Street, San Francisco"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 37.765128,
+          "lng": -122.4497053
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 37.7664621802915,
+            "lng": -122.4484245197085
+          },
+          "southwest": {
+            "lat": 37.7637642197085,
+            "lng": -122.4511224802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "Cole Hardware",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3264,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112169473646823772138\">Cole Hardware</a>"
+          ],
+          "photo_reference": "AWU5eFhbBMIqF1BBjRdZlq3P9SkWofNsAtVFgSaCO5L1fOdk7lHrwDT5NiGn_HBWGCXnFZyNa_NckSp7q_TBFOKzvduxOqJNsZoVZr3Jq3ZJuGfnt8X2Yk3yLivv2tgF9bLu7myNmLYmVntuwl4gJMexOtAEx0P6IH2Nbx9PSW6OfYYfxn6I",
+          "width": 4928
+        }
+      ],
+      "place_id": "ChIJB8s_VVSHhYARCC04YfQVcjM",
+      "plus_code": {
+        "compound_code": "QH82+34 Cole Valley, San Francisco, CA, USA",
+        "global_code": "849VQH82+34"
+      },
+      "rating": 4.6,
+      "reference": "ChIJB8s_VVSHhYARCC04YfQVcjM",
+      "scope": "GOOGLE",
+      "types": [
+        "hardware_store",
+        "home_goods_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 392,
+      "vicinity": "956 Cole Street, San Francisco"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 37.78278299999999,
+          "lng": -122.4628898
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 37.78424968029149,
+            "lng": -122.4615379697085
+          },
+          "southwest": {
+            "lat": 37.7815517197085,
+            "lng": -122.4642359302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "Home Hardware True Value",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 2361,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106048594040559266687\">B W</a>"
+          ],
+          "photo_reference": "AWU5eFhx4kllKnZKk-Uizz_0WEm6Cs8RWB8vJUv6lrKnwzC0Fekjy0vsmpTValCxzJoVvJaLCnkf_z2rSkl3HhRdkVSDSW3bs943Mwtyw2UKXtNqVH2NyuieOLVrHcRsKxdtjjq_vP6SKRF_QUW8Fht1A0oh4jzJfWXFmQO3nJddW4d3PXo8",
+          "width": 2317
+        }
+      ],
+      "place_id": "ChIJxQvD5DuHhYARKCuvBlSZB0U",
+      "plus_code": {
+        "compound_code": "QGMP+4R Inner Richmond, San Francisco, CA, USA",
+        "global_code": "849VQGMP+4R"
+      },
+      "price_level": 2,
+      "rating": 3.5,
+      "reference": "ChIJxQvD5DuHhYARKCuvBlSZB0U",
+      "scope": "GOOGLE",
+      "types": [
+        "hardware_store",
+        "locksmith",
+        "home_goods_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 22,
+      "vicinity": "335 Clement Street, San Francisco"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 37.767615,
+          "lng": -122.4284748
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 37.7690138802915,
+            "lng": -122.4271898197085
+          },
+          "southwest": {
+            "lat": 37.7663159197085,
+            "lng": -122.4298877802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "Handy Handyman Hardware",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104390914659004769007\">Shelly Puri</a>"
+          ],
+          "photo_reference": "AWU5eFhKrD9KloYrn4DgZ3aHkSTtI0IAUkmv7XHgmIJwht1SdFPcykGtpNwKVhYwf0Va-seDyQnkOiN0WaXWZ3WHPZVRUFw4kt1yy0HwXgdGA7q_wWAixywBjA81gqp8BOv2aa_5O5EcD2-aggLv9SAfZv9N8Im_XU_KCYjDad-sU0N62lpb",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJp4kDaR5-j4AREaV3qG7G6HM",
+      "plus_code": {
+        "compound_code": "QH9C+2J Mission Dolores, San Francisco, CA, USA",
+        "global_code": "849VQH9C+2J"
+      },
+      "rating": 4.4,
+      "reference": "ChIJp4kDaR5-j4AREaV3qG7G6HM",
+      "scope": "GOOGLE",
+      "types": [
+        "hardware_store",
+        "home_goods_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 272,
+      "vicinity": "2075 Market Street, San Francisco"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 37.774354,
+          "lng": -122.4375119
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 37.77569493029149,
+            "lng": -122.4362283197085
+          },
+          "southwest": {
+            "lat": 37.77299696970849,
+            "lng": -122.4389262802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "S F Hardware",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109849026903893201606\">Jayasimha Nuggehalli</a>"
+          ],
+          "photo_reference": "AWU5eFhdnUxl2JwgJhP1-1OM7_lXK9IHXswAo-6bgBhRLovofG_HJx5SAPFjOBLcBLS88jjZ2_Kz0TiG84VwbeDa3F11CMhYxBNJLn2ClLKZE5FOk3HR4spENg4NkEaxUOYxQTju_l20dlDaVd_Qu9SyQTCvYjYdKCniE_93yc1Dq9h0CVLb",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJf-gou6-AhYARAkK0Q76p_4A",
+      "plus_code": {
+        "compound_code": "QHF6+PX Alamo Square, San Francisco, CA, USA",
+        "global_code": "849VQHF6+PX"
+      },
+      "rating": 3.7,
+      "reference": "ChIJf-gou6-AhYARAkK0Q76p_4A",
+      "scope": "GOOGLE",
+      "types": [
+        "hardware_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 61,
+      "vicinity": "512 Divisadero Street, San Francisco"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 37.7662435,
+          "lng": -122.4031255
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 37.7676583802915,
+            "lng": -122.4016944697085
+          },
+          "southwest": {
+            "lat": 37.7649604197085,
+            "lng": -122.4043924302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "Folger + Burt Architectural",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 960,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118318497455189222926\">Folger + Burt Architectural</a>"
+          ],
+          "photo_reference": "AWU5eFgTwxd9oYysgZHcA9_QFQ_3ZKbBhkxxhJP77FUX0ZhsHfPxN5DgLHOEv7-qG4olPxFZ-GyN20AAOgtFXxx9R11mcXvQkGTAjUP_ZBNtgrO4fTTo0HBWfzh8xmflis-QVzGqpxLOAYUu2t8NblqpKJm8p9VZAA7hNz2UeCgjlwf3Cvew",
+          "width": 1280
+        }
+      ],
+      "place_id": "ChIJWYVPkTJ-j4AR18dlUtGAzgQ",
+      "plus_code": {
+        "compound_code": "QH8W+FP Showplace Square, San Francisco, CA, USA",
+        "global_code": "849VQH8W+FP"
+      },
+      "rating": 3.8,
+      "reference": "ChIJWYVPkTJ-j4AR18dlUtGAzgQ",
+      "scope": "GOOGLE",
+      "types": [
+        "hardware_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 4,
+      "vicinity": "1616 16th Street A, San Francisco"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 37.7955951,
+          "lng": -122.416193
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 37.7970165302915,
+            "lng": -122.4148523697085
+          },
+          "southwest": {
+            "lat": 37.7943185697085,
+            "lng": -122.4175503302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "Golden City Building Supply",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3968,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112106950722564473295\">Wei Zhi Wang</a>"
+          ],
+          "photo_reference": "AWU5eFjXhbKPWnfytfoavlTIp7v5mgDyTkTpFU1zsn0tWilGq53aGc-X8CvWVU6oYvyBmTR_KXTXJuebhh4-8gn6hYc4gFZbNStx0hubeayHusziNl6r8EBAjUCjHuY0iFeiESmxwkU27S_DOxh376vPY-2wdE8pu0zkgQeVhgP9PPMc7lLz",
+          "width": 2976
+        }
+      ],
+      "place_id": "ChIJIehdSOyAhYAR1HGJ4wjuJAI",
+      "plus_code": {
+        "compound_code": "QHWM+6G Nob Hill, San Francisco, CA, USA",
+        "global_code": "849VQHWM+6G"
+      },
+      "rating": 4.5,
+      "reference": "ChIJIehdSOyAhYAR1HGJ4wjuJAI",
+      "scope": "GOOGLE",
+      "types": [
+        "hardware_store",
+        "home_goods_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 57,
+      "vicinity": "1279 Pacific Avenue, San Francisco"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 37.7826657,
+          "lng": -122.4138521
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 37.7840288302915,
+            "lng": -122.4125995697085
+          },
+          "southwest": {
+            "lat": 37.7813308697085,
+            "lng": -122.4152975302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name": "Peerless General Supply Co",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108402878153626673008\">Asteria Moore</a>"
+          ],
+          "photo_reference": "AWU5eFjGmICloJu8FJ94mighWoNGRFuoDYS7P3cXagh_dtDhg-_eZHlXUnfEK_US6anEdh9WHlqK5iz83dwuujNuwdw6UpxUWLDC7Wtjv4sqZzWSykloqjtQ94UkF7QwMR3DaYfDRd0AwcXlch60WrxZo3xy4y66lVWeNuIStNmNezcR_ow",
+          "width": 1920
+        }
+      ],
+      "place_id": "ChIJK93_vJqAhYAR7gK4JwcyIRc",
+      "plus_code": {
+        "compound_code": "QHMP+3F Tenderloin, San Francisco, CA, USA",
+        "global_code": "849VQHMP+3F"
+      },
+      "rating": 4.4,
+      "reference": "ChIJK93_vJqAhYAR7gK4JwcyIRc",
+      "scope": "GOOGLE",
+      "types": [
+        "hardware_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 46,
+      "vicinity": "156 Leavenworth Street, San Francisco"
+    }
+  ],
+  "status": "OK"
+}
